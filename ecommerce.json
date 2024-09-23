@@ -1,0 +1,16 @@
+{
+    "nome": "Minecraft",
+    "Sobre": "Jogo sand-box mundo aberto",
+    "Preco": "R$ 78,95",
+    "Image": "<img src = 'https://upload.wikimedia.org/wikipedia/pt/9/9c/Minecraft_capa.png'>",
+    
+    "nome2": "Minecraft Dungeons",
+    "Sobre2": "Jogo RPG de combate",
+    "Preco2": "R$ 74,95",
+    "Image2": "<img src = 'https://th.bing.com/th/id/OIP.qKWRhtbdNswxQSxKs8Qh4gHaJd?rs=1&pid=ImgDetMain'>",
+    
+    "nome3": "Minecraft Legends",
+    "Sobre3": "Jogo de estratégia",
+    "Preco3": "R$ 70,95",
+    "Image3": "<img src = 'https://m.media-amazon.com/images/I/914M1nHQfJL._AC_UF1000,1000_QL80_.jpg'>"
+}
